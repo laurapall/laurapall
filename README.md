@@ -7,8 +7,7 @@
 - 🌱 Continuously learning and staying updated with C++, Python, SQL <br>
 - 💡 Passionate about applying machine learning and statistical analysis to solve complex problems. <br>
 - 💞️ I’m looking to collaborate on different projects.<br>
- - 📫 How to reach me: flaurapall@gmail.com
-
+ - 📫 How to reach me: [flaurapall@gmail.com](mailto:flaurapall@gmail.com)
 
 <!---
 laurapall/laurapall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

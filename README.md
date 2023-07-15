@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @laurapall
 <div style="text-align: right">
-  <img align = "right" src="https://imgtr.ee/images/2023/07/15/9838486809f63c3ff671c88ccc04e45e.jpeg" alt="Alt Text">
-  
+  <img align = "right" src="https://imgtr.ee/images/2023/07/15/5113f7350e23702ae605709c90d9644a.jpeg" alt="Alt Text">
 </div>
+- 👋 Hi, I’m @laurapall
   
 - 👀 I’m interested in data scientist and machine learning.
 - 🌐 Specializing in client advisory, understanding business requirements,<br>
